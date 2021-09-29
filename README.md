@@ -4,3 +4,6 @@
 
 # Dork Title: to find Apache Hadoop
 # Google Dork: inurl:":8088/cluster/apps"
+
+![image](https://github.com/ozergoker/How-to-find-Apache-Hadoop/blob/main/google.png)
+
